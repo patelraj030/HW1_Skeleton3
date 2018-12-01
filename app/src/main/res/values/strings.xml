@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">news-app-2</string>
+    <string name="main_notification_channel_name">News Syncing</string>
+
+    <string name="news_sync_notification_title">Breaking News</string>
+    <string name="news_sync_notification_body">New News just come up.</string>
+</resources>
